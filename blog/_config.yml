@@ -1,8 +1,8 @@
 # Site settings
 title: Mauricio Urraco
 description: Jekyll Theme Minimal Resume
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "satorimeow.github.io/blog" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: /blog # the subpath of your site, e.g. /blog
+url: satorimeow.github.io/blog # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Mauricio Urraco
