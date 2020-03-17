@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: SatoriMeow
-  tagline: C#、Python用户 . 画画萌新 . 精罗 . 东方厨 . kde用户 
+  tagline: 画画萌新 . 精罗 . 东方厨 
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
